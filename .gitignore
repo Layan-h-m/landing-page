@@ -1,0 +1,5 @@
+.claude/
+.devshots/
+assets/reference_slices/
+*.tmp
+*.pdf
